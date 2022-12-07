@@ -1,0 +1,1 @@
+- While implementing the `shape_for_outcome()` method, I realized if I could make a sort of circular buffer wherein one could increase/decrease the index to find the winning opposing shape, and decrease/increase the index to find the losing opposing shape, that would help make that particular function more elegant. 
